@@ -1,8 +1,6 @@
 # RiemannSums
 
-Program Name and Brief Description
-
-Overview of this Programs Concepts********************************************************************************
+Overview of Riemann Sumation********************************************************************************
 
 A Riemann Sum is a method for approximating the integral of a function. 
 By making small partitions of the curve, 
